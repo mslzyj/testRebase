@@ -13,6 +13,9 @@ public class Main {
        System.out.println("cc77");
        System.out.println("cc88");
        System.out.println("cc99");
+       System.out.println("dd11");
+       System.out.println("dd22");
+       System.out.println("dd33");
 
     }
 }
